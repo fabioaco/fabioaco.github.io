@@ -6,15 +6,17 @@ Here in Geopark I'm assigned in the position as Senior Geophysicist for the Asse
 
 My main task is to support and collaborate the field development plan of LLA34, which is currently the main assets of GPK. It is located in *Casanare - Colombia*, geologically wise it lays in the Llanos Basin.
 
+---
 #### Responsabilities
+- Use geophysical tools to characterise the reservoirs under development and support the 3D geomeodelling
 - Define well location for development, injectors, infill and delineation wells
-- Use geophysical tools to characterise the reservoirs and support the 3D geomeodelling
 - Collaborate in the geological evaluation of the new findings which came up after a new well has been drilled
 
   
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
-
+---
 # link 
+
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 # LinkedIn page
