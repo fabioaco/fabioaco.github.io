@@ -66,6 +66,14 @@ OCT 2004 - DEC 2005
 |:---       |:---                 |:---        |:----:          |
 | Geopark   | Senior Geophysicist | Bogota-Col | 2021 - Present |
 | ENI   | G&G Team Leader  | Maputo-Moz | 2021 - Present |
+
+| Company | Position            | Location            | Period         |   |
+|---------|---------------------|---------------------|----------------|---|
+| Geopark | Senior Geophysicist | Bogota-Colombia     | 2021 - Present |   |
+| ENI     | G&G Team Leader     | Maputo - Mozambique | 2019 - 2020    |   |
+| ENI     | Senior Geoscientist | Basingstoke - UK    | 2015 - 2019    |   |
+
+
 ---
 
 # PERSONAL INTERESTS:
