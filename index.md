@@ -67,12 +67,19 @@ OCT 2004 - DEC 2005
 | Geopark   | Senior Geophysicist | Bogota-Col | 2021 - Present |
 | ENI   | G&G Team Leader  | Maputo-Moz | 2021 - Present |
 
-| Company | Position            | Location            | Period         |   |
-|---------|---------------------|---------------------|----------------|---|
-| Geopark | Senior Geophysicist | Bogota-Colombia     | 2021 - Present |   |
-| ENI     | G&G Team Leader     | Maputo - Mozambique | 2019 - 2020    |   |
-| ENI     | Senior Geoscientist | Basingstoke - UK    | 2015 - 2019    |   |
-
+| **Company**  | **Position**             | **Location**        |   **Period**   |
+|--------------|--------------------------|---------------------|:--------------:|
+| Geopark      | Senior Geophysicist      | Bogota-Colombia     | 2021 - Present |
+| ENI          | G&G Team Leader          | Maputo - Mozambique |   2019 - 2020  |
+| ENI          | Senior Geoscientist      | Basingstoke - UK    |   2015 - 2019  |
+| Hocol        | Exploration Geoscientist | Bogota - Colombia   |   2010 - 2015  |
+| Schlumberger | Consultant Geoscientist  | Bogota - Colombia   |   2008 - 2010  |
+| Lukoil       |                          |                     |    2007-2008   |
+| Schlumberger |                          |                     |      2007      |
+| Empesa       |                          |                     |   2006 - 2007  |
+| R3 E&P       |                          |                     |      2006      |
+| Hocol        |                          |                     |   2005 - 2006  |
+| R3 E&P       |                          |                     |                |
 
 ---
 
