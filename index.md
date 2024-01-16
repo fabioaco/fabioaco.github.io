@@ -1,11 +1,8 @@
 # Fabio Andres Contreras Aristizabal
 ## Geophysicist - Geoscientist
 
-<img style="float: left;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
+<img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
 
-<img style="float: right;" src="https://avatars.githubusercontent.com/u/IMG_2872.jpg?v=4" width="125" height="125">
-
-![photo](IMG_2872.JPG)
 
 
 ## PROFILE
