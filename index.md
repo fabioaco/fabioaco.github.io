@@ -35,33 +35,37 @@ My main task is to support and collaborate the field development plan of LLA34, 
 ---
 
 # [LinkedIn page](https://www.linkedin.com/in/fabioaco)
-
+<a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
 ---
 
 # Experience
-1. Geopark, Bogotá, Colombia — Senior Geophysicist <p>
+1. Geopark, Bogotá, Colombia — Senior Geophysicist
 APR 2021 - PRESENT
-2. ENI, Maputo, Mozambique — G&G Coordinator <p>
+2. ENI, Maputo, Mozambique — G&G Coordinator
 APR 2019 - OCT 2020
-3. ENI, Basingstoke, UK — Senior Geoscientist <p>
+3. ENI, Basingstoke, UK — Senior Geoscientist
 FEB 2015 - APR 2019
-4. Hocol, Bogotá, Colombia — Exploration Geoscientist <p>
+4. Hocol, Bogotá, Colombia — Exploration Geoscientist
 OCT 2010 - JAN 2015
-5. Schlumberger, Bogotá, Colombia — Consultant Geoscientist <p>
+5. Schlumberger, Bogotá, Colombia — Consultant Geoscientist
 JAN 2008 - OCT 2010
-6. Lukoil <p>
+6. Lukoil
 SEP 2007 - JAN 2008
-7. Schlumberger <p>
+7. Schlumberger
 MAR 2007 - AUG 2007
-8. Empesa <p>
+8. Empesa
 SEP 2006 - MAR 2007
-9. R3 E&P <p>
+9. R3 E&P
 SEP 2006
-10. Hocol <p>
+10. Hocol
 DEC 2005 - AUG 2006
-11. R3 E&P <p>
+11. R3 E&P
 OCT 2004 - DEC 2005
 
+| Company   | Position            | Location   | Period         |
+|:---       |:---                 |:---        |:----:          |
+| Geopark   | Senior Geophysicist | Bogota-Col | 2021 - Present |
+| ENI   | G&G Team Leader  | Maputo-Moz | 2021 - Present |
 ---
 
 # PERSONAL INTERESTS:
