@@ -20,7 +20,7 @@
 
 
 ---
-### In Geopark since 2021 
+### In [Geopark](www.geo-park.com) since 2021 
 
 Here in Geopark I'm assigned in the position as Senior Geophysicist for the Assets of Development. However, my work also involves supporting activities in the exploration department.
 
