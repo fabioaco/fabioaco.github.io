@@ -1,11 +1,8 @@
 # Fabio Andres Contreras Aristizabal
-## Geophysicist
-
+## Geophysicist - Geoscientist
 
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
 
-
-This is my profile - portfolio page ;) <p>
 
 ## PROFILE
   **My professional passion lies in geoscience**, having earned a B.Sc. in Geology and M.Sc. in Petroleum Geophysics. While **my personal passion is centered around my lovely wife and adorable two boys**. I am always on the lookout for new challenges to enhance my skills as a geoscientist.
@@ -32,9 +29,37 @@ My main task is to support and collaborate the field development plan of LLA34, 
   
 ---
 
-# link 
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
 # LinkedIn page
 [LinkedIn](https://www.linkedin.com/in/fabioaco)
+
+---
+
+# Experience
+1. Geopark, Bogotá, Colombia — Senior Geophysicist <p>
+APR 2021 - PRESENT
+2. ENI, Maputo, Mozambique — G&G Coordinator <p>
+APR 2019 - OCT 2020
+3. ENI, Basingstoke, UK — Senior Geoscientist <p>
+FEB 2015 - APR 2019
+4. Hocol, Bogotá, Colombia — Exploration Geoscientist <p>
+OCT 2010 - JAN 2015
+5. Schlumberger, Bogotá, Colombia — Consultant Geoscientist <p>
+JAN 2008 - OCT 2010
+6. Lukoil <p>
+SEP 2007 - JAN 2008
+7. Schlumberger <p>
+MAR 2007 - AUG 2007
+8. Empesa <p>
+SEP 2006 - MAR 2007
+9. R3 E&P <p>
+SEP 2006
+10. Hocol <p>
+DEC 2005 - AUG 2006
+11. R3 E&P <p>
+OCT 2004 - DEC 2005
+
+---
+
+# PERSONAL INTERESTS:
+
+What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
