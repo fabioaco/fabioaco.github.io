@@ -8,8 +8,9 @@
 This is my profile - portfolio page ;) <p>
 
 ## PROFILE
-  **My professional passion lies in geoscience**, having earned a B.Sc. in Geology and M.Sc. in Petroleum Geophysics. While **my personal passion is centered around my lovely wife and adorable two boys**. I am always on the lookout for new challenges to enhance my skills as a geoscientist. <p>
-    I have a track record of success in defining prospects and appraisals, as well as extensive experience in reservoir characterization with seismic data.<p>
+  **My professional passion lies in geoscience**, having earned a B.Sc. in Geology and M.Sc. in Petroleum Geophysics. While **my personal passion is centered around my lovely wife and adorable two boys**. I am always on the lookout for new challenges to enhance my skills as a geoscientist.
+  
+   I have a track record of success in defining prospects and appraisals, as well as extensive experience in reservoir characterization with seismic data.<p>
     My work experience includes working onshore and offshore in South America, Europe, and Africa in various geological settings, such as fluvial, shallow, and deep waters. Extensive knowledge of technical matters at different scales: prospect to field. Well operations, seismic processing, inversion, sequence stratigraphy, and clastic sedimentology are topics I am knowledgeable about.<p>
     I am enthusiastic about learning and working in all areas. Someone who is dedicated and motivated, and possesses the ability to work independently or as part of a team. My ability to think creatively and solve geo-scientific and software problems is what sets me apart. My training has taught me to utilize a multidisciplinary approach when working.<p>
     Over 1400 short training courses have been completed by me. A proficient individual in Spanish, English, and Portuguese.<p>
@@ -29,7 +30,6 @@ My main task is to support and collaborate the field development plan of LLA34, 
 - Collaborate in the geological evaluation of the new findings which came up after a new well has been drilled
 
   
-<img style="float: right;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
 ---
 
 # link 
