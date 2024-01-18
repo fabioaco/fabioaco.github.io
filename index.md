@@ -10,14 +10,14 @@
   
    I have a track record of success in defining prospects and appraisals, as well as extensive experience in reservoir characterization with seismic data.
    
-   My work experience includes working onshore and offshore in South America, Europe, and Africa in various geological settings, such as fluvial, shallow, and deep waters. Extensive knowledge of technical matters at different scales: prospect to field. Well operations, seismic processing, inversion, sequence stratigraphy, and clastic sedimentology are topics I am knowledgeable about.
+   My work experience includes working onshore and offshore in South America, Europe, and Africa in various geological settings, such as fluvial, shallow, and deep waters. Extensive knowledge of technical matters at different scales: prospect to field. Well operations, seismic processing, seismic inversion, sequence stratigraphy, and clastic sedimentology are topics I am knowledgeable about.
    
    I am enthusiastic about learning and working in all areas. Someone who is dedicated and motivated, and possesses the ability to work independently or as part of a team. My ability to think creatively and solve geo-scientific and software problems is what sets me apart. My training has taught me to utilize a multidisciplinary approach when working.
    
-   Over 1400 short training courses have been completed by me. A proficient individual in Spanish, English, and Portuguese.
+   Over 1400 hr short training courses have been completed by me. A proficient individual in Spanish, English, and Portuguese.
 
     
-   >  ***Now I'm trying to pass from enthusiats to knowledgeable about python***
+   >  ***Now I'm trying to pass from enthusiat to knowledgeable about python***
 
 
 ---
