@@ -40,6 +40,7 @@ My main task is to support and collaborate the field development plan of LLA34, 
 
 ---
 
+## Previous Work Experience
 
 | **Company**  | **Position**             | **Location**        |   **Period**   |
 |--------------|--------------------------|---------------------|:--------------:|
@@ -55,7 +56,7 @@ My main task is to support and collaborate the field development plan of LLA34, 
 | Hocol        |                          |                     |   2005 - 2006  |
 | R3 E&P       |                          |                     |                |
 
-## Previous Work Experience
+
 1. Geopark, Bogotá, Colombia — Senior Geophysicist - 
 APR 2021 - PRESENT
 2. ENI, Maputo, Mozambique — G&G Coordinator - 
@@ -81,7 +82,7 @@ OCT 2004 - DEC 2005
 
 ---
 
-# PERSONAL INTERESTS:
+## PERSONAL INTERESTS:
 
 What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
 
