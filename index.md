@@ -68,7 +68,7 @@ OCT 2004 - DEC 2005
 
 | **Company**  | **Position**             | **Location**        |   **Period**   |
 |--------------|--------------------------|---------------------|:--------------:|
-| Geopark      | Senior Geophysicist      | Bogota-Colombia     | 2021 - Present |
+|Geopark       | Senior Geophysicist      | Bogota-Colombia     | 2021 - Present |
 | ENI          | G&G Team Leader          | Maputo - Mozambique |   2019 - 2020  |
 | ENI          | Senior Geoscientist      | Basingstoke - UK    |   2015 - 2019  |
 | Hocol        | Exploration Geoscientist | Bogota - Colombia   |   2010 - 2015  |
@@ -87,4 +87,5 @@ OCT 2004 - DEC 2005
 What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
 
 [My web page not working yet](https://www.fabioaco.com) 
+
 [Geopark](https://www.geo-park.com/)
