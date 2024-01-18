@@ -1,7 +1,7 @@
 
 ## Geophysicist - Geoscientist
 
-<img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="100" height="100">
+<img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="150" height="150">
 
 
 
