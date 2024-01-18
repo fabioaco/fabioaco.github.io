@@ -36,7 +36,7 @@ My main task is to support and collaborate the field development plan of LLA34, 
 ---
 
 # [LinkedIn page](https://www.linkedin.com/in/fabioaco)
-<a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
+# <a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
 ---
 
 # Experience
