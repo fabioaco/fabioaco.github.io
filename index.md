@@ -21,7 +21,9 @@
 
 
 ---
-# In [Geopark](https://www.geo-park.com/) since 2021 
+# at <a href="https://www.geo-park.com" target="_blank">GeoPark</a>
+
+[Geopark](https://www.geo-park.com/) since 2021 
 
 Here in Geopark I'm assigned in the position as Senior Geophysicist for the Assets of Development. However, my work also involves supporting activities in the exploration department.
 
