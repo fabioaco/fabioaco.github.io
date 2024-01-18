@@ -21,9 +21,7 @@
 
 
 ---
-# at <a href="https://www.geo-park.com" target="_blank">GeoPark since 2021</a>
-
-[Geopark](https://www.geo-park.com/) since 2021 
+## at <a href="https://www.geo-park.com" target="_blank">GeoPark </a> since 2021
 
 Here in Geopark I'm assigned in the position as Senior Geophysicist for the Assets of Development. However, my work also involves supporting activities in the exploration department.
 
@@ -88,4 +86,5 @@ OCT 2004 - DEC 2005
 
 What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
 
-[My eeb page not working yet](https://www.fabioaco.com) 
+[My web page not working yet](https://www.fabioaco.com) 
+[Geopark](https://www.geo-park.com/)
