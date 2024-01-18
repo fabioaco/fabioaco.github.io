@@ -21,7 +21,7 @@
 
 
 ---
-# at <a href="https://www.geo-park.com" target="_blank">GeoPark</a>
+# at <a href="https://www.geo-park.com" target="_blank">GeoPark since 2021</a>
 
 [Geopark](https://www.geo-park.com/) since 2021 
 
