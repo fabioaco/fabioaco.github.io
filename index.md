@@ -1,7 +1,7 @@
 
 ## Geophysicist - Geoscientist
 
-<img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
+<img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="100" height="100">
 
 
 
@@ -36,34 +36,9 @@ My main task is to support and collaborate the field development plan of LLA34, 
 ---
 
 
-# <a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
+## <a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
 
 ---
-
-# Experience
-1. Geopark, Bogotá, Colombia — Senior Geophysicist
-APR 2021 - PRESENT
-2. ENI, Maputo, Mozambique — G&G Coordinator
-APR 2019 - OCT 2020
-3. ENI, Basingstoke, UK — Senior Geoscientist
-FEB 2015 - APR 2019
-4. Hocol, Bogotá, Colombia — Exploration Geoscientist
-OCT 2010 - JAN 2015
-5. Schlumberger, Bogotá, Colombia — Consultant Geoscientist
-JAN 2008 - OCT 2010
-6. Lukoil
-SEP 2007 - JAN 2008
-7. Schlumberger
-MAR 2007 - AUG 2007
-8. Empesa
-SEP 2006 - MAR 2007
-9. R3 E&P
-SEP 2006
-10. Hocol
-DEC 2005 - AUG 2006
-11. R3 E&P
-OCT 2004 - DEC 2005
-
 
 
 | **Company**  | **Position**             | **Location**        |   **Period**   |
@@ -79,6 +54,30 @@ OCT 2004 - DEC 2005
 | R3 E&P       |                          |                     |      2006      |
 | Hocol        |                          |                     |   2005 - 2006  |
 | R3 E&P       |                          |                     |                |
+
+## Previous Work Experience
+1. Geopark, Bogotá, Colombia — Senior Geophysicist - 
+APR 2021 - PRESENT
+2. ENI, Maputo, Mozambique — G&G Coordinator - 
+APR 2019 - OCT 2020
+3. ENI, Basingstoke, UK — Senior Geoscientist - 
+FEB 2015 - APR 2019
+4. Hocol, Bogotá, Colombia — Exploration Geoscientist - 
+OCT 2010 - JAN 2015
+5. Schlumberger, Bogotá, Colombia — Consultant Geoscientist - 
+JAN 2008 - OCT 2010
+6. Lukoil - 
+SEP 2007 - JAN 2008
+7. Schlumberger - 
+MAR 2007 - AUG 2007
+8. Empesa
+SEP 2006 - MAR 2007
+9. R3 E&P - 
+SEP 2006
+10. Hocol - 
+DEC 2005 - AUG 2006
+11. R3 E&P - 
+OCT 2004 - DEC 2005
 
 ---
 
