@@ -29,7 +29,7 @@ Here in Geopark I'm assigned in the position as Senior Geophysicist for the Asse
 
 My main task is to support and collaborate the field development plan of LLA34, which is currently the main assets of GPK. It is located in *Casanare - Colombia*, geologically wise it lays in the Llanos Basin.
 
-#### Responsabilities
+## Responsabilities
 - Use geophysical tools to characterise the reservoirs under development and support the 3D geomeodelling
 - Define well location for development, injectors, infill and delineation wells
 - Collaborate in the geological evaluation of the new findings which came up after a new well has been drilled
@@ -66,10 +66,7 @@ DEC 2005 - AUG 2006
 11. R3 E&P
 OCT 2004 - DEC 2005
 
-| Company   | Position            | Location   | Period         |
-|:---       |:---                 |:---        |:----:          |
-| Geopark   | Senior Geophysicist | Bogota-Col | 2021 - Present |
-| ENI   | G&G Team Leader  | Maputo-Moz | 2021 - Present |
+
 
 | **Company**  | **Position**             | **Location**        |   **Period**   |
 |--------------|--------------------------|---------------------|:--------------:|
@@ -91,4 +88,4 @@ OCT 2004 - DEC 2005
 
 What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
 
-[Web page not working yet](https://www.fabioaco.com) 
+[My eeb page not working yet](https://www.fabioaco.com) 
