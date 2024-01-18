@@ -2,3 +2,4 @@ name: fabioaco.github.io
 title: Fabio Andres Contreras-Aristizabal
 remote_theme: pages-themes/architect@v0.2.0
 description: it fills me with joy to serve and contribute
+show_downloads: True
