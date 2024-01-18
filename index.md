@@ -1,4 +1,4 @@
-# Fabio Andres Contreras Aristizabal
+
 ## Geophysicist - Geoscientist
 
 <img style="float: center;" src="https://avatars.githubusercontent.com/u/21201884?v=4" width="125" height="125">
@@ -35,8 +35,9 @@ My main task is to support and collaborate the field development plan of LLA34, 
   
 ---
 
-# [LinkedIn page](https://www.linkedin.com/in/fabioaco)
+
 # <a href="https://www.linkedin.com/in/fabioaco" target="_blank">LinkedIn</a>
+
 ---
 
 # Experience
@@ -87,3 +88,5 @@ OCT 2004 - DEC 2005
 # PERSONAL INTERESTS:
 
 What I most enjoy in my spare time is parenting, reading, swimming, meditation, or going for some nature-outdoor activity. 
+
+[Web page not working yet](https://www.fabioaco.com) 
